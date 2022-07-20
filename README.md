@@ -1,1 +1,1 @@
-# mern-backend-template
+# Mern Backend Template
